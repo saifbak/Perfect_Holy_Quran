@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "800008025801",
+    "project_id": "perfect-holly-quran",
+    "storage_bucket": "perfect-holly-quran.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800008025801:android:f8810fbce23eff345abf18",
+        "android_client_info": {
+          "package_name": "com.kzainapps.perfectholyquran"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800008025801-el8mlaa7empp7g3b8nobde0c4snurq6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcz7pA0o-Rh8DRT5WdsK24aB_frhaYI0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800008025801-el8mlaa7empp7g3b8nobde0c4snurq6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
